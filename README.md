@@ -13,6 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="60" width="60" src="https://img.icons8.com/glyph-neue/64/000000/github.png">
   <img align="center" alt="Gabriel-CSS" height="60" width="60" src="https://img.icons8.com/color/48/000000/git.png">
 </div>
 <br></br>
