@@ -5,6 +5,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel" height="70" width="70" src="https://img.icons8.com/color/240/000000/javascript--v1.png">
+  <img align="center" alt="Gabriel" height="70" width="70" src="https://img.icons8.com/color/48/000000/bootstrap.png">  
 </div>
 <br>
 
