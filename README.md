@@ -1,7 +1,7 @@
 
 <h2 align ="center" dir="auto">Olá, tudo bem?/Hey, what's up?👋🏽</h2><br>
 
-<p align ="center" dir= "auto">Me chamo Gabriel Anesi de Oliveira, do Brasil. Estou mudando de carreira. Após me formar em <b>Direito</b>, ser um <b>Técnico de informática</b>, <b>Tradutor</b>, e um <b>pintor de telas </b>(ainda sou!), ouvi o chamado para o mundo da programação. Ficarei feliz em ajudar!😁</p>
+<p align ="center" dir= "auto">Sou Gabriel Anesi de Oliveira, do Brasil. Eu mudei de direção na minha carreira. Depois de me formar em Direito, trabalhar como técnico de PC, tradutor e pintor de tela (que ainda sou), esta é a minha abordagem no mundo dev. Estarei feliz em ajudar!😁</p>
 
 <p align ="center" dir= "auto">I'm Gabriel Anesi de Oliveira from Brazil. I've changed directions in my career. After graduating from law school, working as a PC technician, translator, and canvas painter (which I still am), this is my approach to the dev world. I'll be happy to help!😁</p>
 
